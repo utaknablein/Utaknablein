@@ -36,6 +36,13 @@ An independent AI challenger that pressure-tests consequential proposals **befor
 Patterns for delegating real work to agents: **triggers, permissions, human checkpoints, escalation, and measurement**.
 
 
+### [Subscription Revenue Integrity](https://github.com/utaknablein/subscription-revenue-integrity)
+
+**Are we building customer loyalty, or merely recording renewals?**
+
+A three-dimension framework and prototype for seeing when identical renewal rates hide very different economics. Runs on synthetic data or your own cohort export.
+
+
 ### [ENGINE](https://github.com/utaknablein/engine-diagnostic)
 
 A diagnostic for whether an organization can actually carry AI transformation rather than simply add AI tools.

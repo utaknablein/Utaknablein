@@ -36,13 +36,13 @@ An independent AI challenger that pressure-tests consequential proposals **befor
 Patterns for delegating real work to agents: **triggers, permissions, human checkpoints, escalation, and measurement**.
 
 
-### [IntentFlow](https://github.com/utaknablein/intentflow)
+### [Agent-Native Service](https://github.com/utaknablein/agent-native-service)
 
 **What does service look like when the agent is part of the product, not a chatbot bolted on?**
 
 A clickable prototype of an agent-native service experience: say what you need, compare options with honest tradeoffs, approve the change, and get a verified receipt with undo.
 
-[**Try the IntentFlow prototype →**](https://utaknablein.github.io/intentflow/)
+[**Try the prototype →**](https://utaknablein.github.io/agent-native-service/)
 
 
 ### [Subscription Revenue Integrity](https://github.com/utaknablein/subscription-revenue-integrity)
